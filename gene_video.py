@@ -142,10 +142,10 @@ def create_info_segment(clip_config, resolution, font_path, text_size=44, inline
                         color="white",
                         duration=clip_config['duration'])
     
-    addtional_text = "【本视频由mai-genVb50视频生成器生成】"
+    addtional_text = "gened by mai-genVb50;forked by BhCtls"
     addtional_txt_clip = TextClip(font=font_path, text=addtional_text,
                         method = "label",
-                        font_size=18,
+                        font_size= 12,
                         vertical_align="bottom",
                         color="white",
                         duration=clip_config['duration']
@@ -222,15 +222,20 @@ def create_video_segment(clip_config, resolution, font_path, text_size=28, inlin
         video_clip = video_clip.subclipped(start_time=clip_config['start'],
                                             end_time=clip_config['end'])
         # 等比例缩放，在高为1080像素的情况下，谱面确认的高度应该是540像素，因此比例为0.5
-        video_clip = video_clip.with_effects([vfx.Resize(height=0.5 * resolution[1])])
+        video_clip = video_clip.with_effects([vfx.Resize(height=1 * resolution[1])])
         
+        '''
         # 裁剪成正方形
+        
+        这里必须要修改的!!!!!!!!!!!!!!!!!!!!!!!
+        视频16：9
+        
         video_height = video_clip.h
         video_width = video_clip.w
         x_center = video_width / 2
         crop_size = video_height
-        x1 = x_center - (crop_size / 2)
-        x2 = x_center + (crop_size / 2)
+        #x1 = x_center - (crop_size / 2)
+        #x2 = x_center + (crop_size / 2)
         video_clip = video_clip.cropped(x1=x1, y1=0, x2=x2, y2=video_height)
     else:
         print(f"Video Generator Warning:{clip_config['id']} 没有对应的视频, 请检查本地资源")
@@ -240,9 +245,10 @@ def create_video_segment(clip_config, resolution, font_path, text_size=28, inlin
             int(540/1080 * resolution[1])   
         )
         video_clip = ImageClip(blank_frame).with_duration(clip_config['duration'])
-
+        '''
+        
     # 计算位置
-    video_pos = (int(0.092 * resolution[0]), int(0.328 * resolution[1]))
+    video_pos = (int(0.092 * resolution[0]), int(0.008 * resolution[1]))
     text_pos = (int(0.54 * resolution[0]), int(0.54 * resolution[1]))
 
     # 创建文字

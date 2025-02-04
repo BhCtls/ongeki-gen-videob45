@@ -108,17 +108,19 @@ def get_keyword(downloader_type, title_name, level_index, type):
             dif_name = "Master"
         case 4:
             dif_CN_name = "白谱"
-            dif_name = "Re:MASTER"
+            dif_name = "LUNATIC"
         case _:
             dif_CN_name = ""
             dif_name = ""
             print(f"Warning: {title_name}具有未指定的谱面难度！")
     if downloader_type == "youtube":
-        suffix = "AP【maimaiでらっくす外部出力】"
-        return f"{title_name} {'DX譜面' if type != 'SD' else ''} {dif_name} {suffix}"
+        prefix = "[オンゲキ]"
+        suffix = "[MASTER 14+] (譜面確認)"
+        return f"{prefix} {title_name} {dif_name} {suffix}"
     elif downloader_type == "bilibili":
-        prefix = "【maimai】【谱面确认】"
-        return f"{prefix} {'DX谱面' if type != 'SD' else '标准谱面'} {title_name} {dif_CN_name} {dif_name} "
+        prefix = "[音击  オンゲキ  bright-M]"
+        suffix = "14+ ABFB SSS+"
+        return f"{prefix} {title_name} {dif_name} {suffix}"
     
 
 def search_one_video(downloader, song_data):

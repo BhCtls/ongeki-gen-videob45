@@ -21,12 +21,14 @@ class Utils:
     def JacketLoader(self, MusicId: int = 0):
         __musicid = str(MusicId)[-4:].zfill(4)
         try:
-            with Image.open(f"./images/Jackets/UI_Jacket_00{__musicid}.png") as Jacket:
-                return Jacket.copy()
+            with Image.open(f"./images/Jackets/UI_Jacket_{__musicid}_S.webp") as Jacket:
+                resized_jacket = Jacket.resize((400, 400), Image.LANCZOS)
+                return resized_jacket.copy()
         except FileNotFoundError:
             print(f"乐曲{__musicid}不存在。")
-            with Image.open(f"./images/Jackets/UI_Jacket_000000.png") as Jacket:
-                return Jacket.copy()
+            with Image.open(f"./images/Jackets/UI_Jacket_0000_S.webp") as Jacket:
+                resized_jacket = Jacket.resize((400, 400), Image.LANCZOS)
+                return resized_jacket.copy()
 
     def DsLoader(self, level: int = 0, Ds: float = 0.0):
         if Ds >= 20 or Ds < 1:
@@ -71,7 +73,11 @@ class Utils:
             _Type = _Type.resize((180, 50), Image.BICUBIC)
             return _Type.copy()
 
-    def AchievementLoader(self, Achievement: str):
+    def AchievementLoader(self, Achievement: int):
+        if isinstance(Achievement, str):
+            Achievement = float(Achievement)  # Convert to float first 
+        achround = round(Achievement/10000, 4)
+        Achievement = str(achround)
         IntegerPart = Achievement.split('.')[0]
         DecimalPart = Achievement.split('.')[1]
 
@@ -148,7 +154,7 @@ class Utils:
 
         # 载入文字元素
         Draw = ImageDraw.Draw(Image)
-        FontPath = "./font/FOT_NewRodin_Pro_EB.otf"
+        FontPath = "./font/SEGA_Humming.ttf"
         FontSize = 32
         FontColor = (255, 255, 255)
         Font = ImageFont.truetype(FontPath, FontSize)
@@ -172,7 +178,7 @@ class Utils:
         # 匹配乐曲id和难度id找到谱面notes数量
         level_index = record_detail['level_index']
         song_id = record_detail['song_id']
-        user_dx_score = record_detail['dxScore']
+        user_dx_score = 0
         max_dx_score = -1
         for music in music_info:
             if music['id'] == str(song_id):
@@ -231,7 +237,8 @@ class Utils:
                 # 加载乐曲封面
                 JacketPosition = (44, 53)
                 Jacket = self.JacketLoader(record_detail["song_id"])
-                TempImage.paste(Jacket, JacketPosition, Jacket)
+                alpha = Jacket if Jacket.mode == 'RGBA' else Image.new('L', Jacket.size, 255)
+                TempImage.paste(Jacket, JacketPosition, alpha)
 
                 # 加载类型
                 TypePosition = (1200, 75)

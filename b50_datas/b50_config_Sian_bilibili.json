@@ -1,0 +1,2567 @@
+[
+    {
+        "achievements": 1002645,
+        "ds": 15.3,
+        "fc": "",
+        "fs": "sync",
+        "level": "15",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.97,
+        "rate": "sss",
+        "song_id": 728,
+        "title": "光焔のラテラルアーク",
+        "type": "SD",
+        "clip_id": "best_1",
+        "video_info_list": [
+            {
+                "id": "BV173411u7yF",
+                "aid": 427717089,
+                "cid": 0,
+                "title": "オンゲキ   光焔のラテラルアーク  - 大国奏音（音源 320K）",
+                "url": "http://www.bilibili.com/video/av427717089",
+                "duration": 160
+            },
+            {
+                "id": "BV1HC4y1N71h",
+                "aid": 750519305,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  光焔のラテラルアーク   Master  SSS 1003227",
+                "url": "http://www.bilibili.com/video/av750519305",
+                "duration": 197
+            },
+            {
+                "id": "BV19m4y1i7qw",
+                "aid": 699510761,
+                "cid": 0,
+                "title": "PROJECT SEKAI 創作 譜面   光焔のラテラルアーク （ MASTER  35)  オンゲキ  ongeki  转载",
+                "url": "http://www.bilibili.com/video/av699510761",
+                "duration": 170
+            },
+            {
+                "id": "BV1VP4y1v7RS",
+                "aid": 904448813,
+                "cid": 0,
+                "title": "音击合作第二弹  光焔のラテラルアーク  纯钢琴版（HALO   Lv.冬）",
+                "url": "http://www.bilibili.com/video/av904448813",
+                "duration": 324
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1xEFVeMEkt",
+            "aid": 113916390678322,
+            "cid": 0,
+            "title": "光焔のラテラルアーク†",
+            "url": "http://www.bilibili.com/video/av113916390678322",
+            "duration": 187
+        }
+    },
+    {
+        "achievements": 1004126,
+        "ds": 15.2,
+        "fc": "",
+        "fs": "sync",
+        "level": "15",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.97,
+        "rate": "sss",
+        "song_id": 803,
+        "title": "Regulus",
+        "type": "SD",
+        "clip_id": "best_2",
+        "video_info_list": [
+            {
+                "id": "BV1H341187cK",
+                "aid": 421642167,
+                "cid": 0,
+                "title": "谱面确认   MAIMAI DX   Regulus    Master  14+",
+                "url": "http://www.bilibili.com/video/av421642167",
+                "duration": 154
+            },
+            {
+                "id": "BV1QP411t7vn",
+                "aid": 318538899,
+                "cid": 0,
+                "title": "「音击 ONGEKI  オンゲキ 」 Regulus   MASTER  Lv.15 1,002,100 FCFB SSS手元",
+                "url": "http://www.bilibili.com/video/av318538899",
+                "duration": 168
+            },
+            {
+                "id": "BV1QA411F7RT",
+                "aid": 335540634,
+                "cid": 0,
+                "title": "[ オンゲキ ] 15 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av335540634",
+                "duration": 3391
+            },
+            {
+                "id": "BV16V411z7v5",
+                "aid": 414138405,
+                "cid": 0,
+                "title": "[ オンゲキ ] Lunatic ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av414138405",
+                "duration": 10474
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1mi421S7Yd",
+            "aid": 1455099877,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM2] Regulus (MASTER 15) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av1455099877",
+            "duration": 184
+        }
+    },
+    {
+        "achievements": 1005860,
+        "ds": 15.0,
+        "fc": "",
+        "fs": "sync",
+        "level": "15",
+        "level_index": 4,
+        "level_label": "Lunatic",
+        "ra": 16.89,
+        "rate": "sss",
+        "song_id": 8115,
+        "title": "AMAZING MIGHTYYYY!!!!",
+        "type": "SD",
+        "clip_id": "best_3",
+        "video_info_list": [
+            {
+                "id": "BV1Ae41197VK",
+                "aid": 235155023,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bM2]  AMAZING   MIGHTYYYY !!!! (LUNATIC 15) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av235155023",
+                "duration": 188
+            },
+            {
+                "id": "BV1mi421U7Kt",
+                "aid": 1454903244,
+                "cid": 0,
+                "title": "INTERNET  MIGHTYYYY !!!!",
+                "url": "http://www.bilibili.com/video/av1454903244",
+                "duration": 159
+            },
+            {
+                "id": "BV1Eh41127Ru",
+                "aid": 203562656,
+                "cid": 0,
+                "title": "maimai WAiKURO -  AMAZING   MIGHTYYYY !!!! (ULT!MATE EXTENDED)",
+                "url": "http://www.bilibili.com/video/av203562656",
+                "duration": 327
+            },
+            {
+                "id": "BV1DM411r7TM",
+                "aid": 520507801,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  AMAZING   MIGHTYYYY ！！！！ (MASTER 13+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av520507801",
+                "duration": 176
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1Ae41197VK",
+            "aid": 235155023,
+            "cid": 0,
+            "title": "[音击  オンゲキ  bM2]  AMAZING   MIGHTYYYY !!!! (LUNATIC 15) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av235155023",
+            "duration": 188
+        }
+    },
+    {
+        "achievements": 1004316,
+        "ds": 15.1,
+        "fc": "",
+        "fs": "sync",
+        "level": "15",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.88,
+        "rate": "sss",
+        "song_id": 682,
+        "title": "Op.I《fear-TITΛN-》",
+        "type": "SD",
+        "clip_id": "best_4",
+        "video_info_list": [
+            {
+                "id": "BV1B2421K75X",
+                "aid": 1601489960,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bright-M]  Op.I 《 fear - TITΛN -》 ( MASTER  15) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av1601489960",
+                "duration": 204
+            },
+            {
+                "id": "BV1QS4y1g7hc",
+                "aid": 679542558,
+                "cid": 0,
+                "title": "(音源)[音击  オンゲキ ]xi vs かねこちはる -  Op.I 《 fear - TITΛN -》",
+                "url": "http://www.bilibili.com/video/av679542558",
+                "duration": 158
+            },
+            {
+                "id": "BV19e4y117gB",
+                "aid": 559911890,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bright-M]  Op.I 《 fear - TITΛN -》 (EXPERT 13+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av559911890",
+                "duration": 187
+            },
+            {
+                "id": "BV1hu4m1N7H2",
+                "aid": 1300252516,
+                "cid": 0,
+                "title": "オンゲキ  音击  Op.I 《 fear - TITΛN -》 SSS",
+                "url": "http://www.bilibili.com/video/av1300252516",
+                "duration": 192
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1B2421K75X",
+            "aid": 1601489960,
+            "cid": 0,
+            "title": "[音击  オンゲキ  bright-M]  Op.I 《 fear - TITΛN -》 ( MASTER  15) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av1601489960",
+            "duration": 204
+        }
+    },
+    {
+        "achievements": 1005680,
+        "ds": 15.0,
+        "fc": "",
+        "fs": "sync",
+        "level": "15",
+        "level_index": 4,
+        "level_label": "Lunatic",
+        "ra": 16.87,
+        "rate": "sss",
+        "song_id": 8089,
+        "title": "怨撃",
+        "type": "SD",
+        "clip_id": "best_5",
+        "video_info_list": [
+            {
+                "id": "BV16V411z7v5",
+                "aid": 414138405,
+                "cid": 0,
+                "title": "[ オンゲキ ]  Lunatic  ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av414138405",
+                "duration": 10474
+            },
+            {
+                "id": "BV15T41137RJ",
+                "aid": 470357230,
+                "cid": 0,
+                "title": "オンゲキ   怨撃  ( LUNATIC  15) SSS+ 完走 [外部出力]",
+                "url": "http://www.bilibili.com/video/av470357230",
+                "duration": 168
+            },
+            {
+                "id": "BV1Ng4y1A7XH",
+                "aid": 828353812,
+                "cid": 0,
+                "title": "[ オンゲキ ]  怨撃  攻略集合",
+                "url": "http://www.bilibili.com/video/av828353812",
+                "duration": 1714
+            },
+            {
+                "id": "BV1H64y1H7E4",
+                "aid": 580227809,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bright-M]  怨撃  ( LUNATIC  15) 完走",
+                "url": "http://www.bilibili.com/video/av580227809",
+                "duration": 237
+            }
+        ],
+        "video_info_match": {
+            "id": "BV15T41137RJ",
+            "aid": 470357230,
+            "cid": 0,
+            "title": "オンゲキ   怨撃  ( LUNATIC  15) SSS+ 完走 [外部出力]",
+            "url": "http://www.bilibili.com/video/av470357230",
+            "duration": 168
+        }
+    },
+    {
+        "achievements": 1002914,
+        "ds": 15.1,
+        "fc": "",
+        "fs": "sync",
+        "level": "15",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.79,
+        "rate": "sss",
+        "song_id": 830,
+        "title": "POTENTIAL",
+        "type": "SD",
+        "clip_id": "best_6",
+        "video_info_list": [
+            {
+                "id": "BV1VD4y1d7DS",
+                "aid": 712388901,
+                "cid": 0,
+                "title": "[ オンゲキ ] 13 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av712388901",
+                "duration": 33389
+            },
+            {
+                "id": "BV15G4y167sT",
+                "aid": 815043964,
+                "cid": 0,
+                "title": "CHUNITHM 中二节奏  谱面确认   POTENTIAL  [ MASTER  15] (流速9.0)",
+                "url": "http://www.bilibili.com/video/av815043964",
+                "duration": 144
+            },
+            {
+                "id": "BV1Gf4y1n7ER",
+                "aid": 293000658,
+                "cid": 0,
+                "title": "オンゲキ  Apollo （ MASTER ）  谱面确认",
+                "url": "http://www.bilibili.com/video/av293000658",
+                "duration": 159
+            },
+            {
+                "id": "BV19q4y1d7Mu",
+                "aid": 591128546,
+                "cid": 0,
+                "title": "オンゲキ 解説 Apollo  MASTER 徹底攻略！ 一歩ずつ進もう",
+                "url": "http://www.bilibili.com/video/av591128546",
+                "duration": 1497
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1Tj41137dQ",
+            "aid": 438001401,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM2] POTENTIAL (MASTER 15) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av438001401",
+            "duration": 178
+        }
+    },
+    {
+        "achievements": 1000984,
+        "ds": 15.2,
+        "fc": "",
+        "fs": "sync",
+        "level": "15",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.76,
+        "rate": "sss",
+        "song_id": 766,
+        "title": "Stardust:RAY",
+        "type": "SD",
+        "clip_id": "best_7",
+        "video_info_list": [
+            {
+                "id": "BV1sc411k7Gp",
+                "aid": 283072637,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bright-M]  Stardust   RAY  ( MASTER  15) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av283072637",
+                "duration": 204
+            },
+            {
+                "id": "BV16G4y1V7zH",
+                "aid": 817951118,
+                "cid": 0,
+                "title": "maimai创作 谱面  音击 オンゲキ   Stardust   RAY   Master  Lv14 秋之回忆联动挑战曲！",
+                "url": "http://www.bilibili.com/video/av817951118",
+                "duration": 176
+            },
+            {
+                "id": "BV1tU4y117Q5",
+                "aid": 684219013,
+                "cid": 0,
+                "title": "[音击  オンゲキ ] kanone vs. BlackY -  Stardust   RAY  （音源）",
+                "url": "http://www.bilibili.com/video/av684219013",
+                "duration": 165
+            },
+            {
+                "id": "BV1hKpdedEdL",
+                "aid": 112976933684168,
+                "cid": 0,
+                "title": "[maimai创作 谱面   オンゲキ ]  Stardust   RAY  14+ 初稿",
+                "url": "http://www.bilibili.com/video/av112976933684168",
+                "duration": 175
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1sc411k7Gp",
+            "aid": 283072637,
+            "cid": 0,
+            "title": "[音击  オンゲキ  bright-M]  Stardust   RAY  ( MASTER  15) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av283072637",
+            "duration": 204
+        }
+    },
+    {
+        "achievements": 1006989,
+        "ds": 14.8,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.76,
+        "rate": "sss",
+        "song_id": 585,
+        "title": "Re：End of a Dream",
+        "type": "SD",
+        "clip_id": "best_8",
+        "video_info_list": [
+            {
+                "id": "BV1Z44y1P7CZ",
+                "aid": 979895783,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  Re ： End   of   a Dream  ( MASTER  14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av979895783",
+                "duration": 188
+            },
+            {
+                "id": "BV12b4y1Z7JY",
+                "aid": 630952313,
+                "cid": 0,
+                "title": "[BGA]　 Re ： End   of   a Dream 　[BOFU2016]",
+                "url": "http://www.bilibili.com/video/av630952313",
+                "duration": 141
+            },
+            {
+                "id": "BV1iL411K7hV",
+                "aid": 466657406,
+                "cid": 0,
+                "title": "音击  オンゲキ  手元付  Re ： End   of   a Dream  MAS14+ SSS",
+                "url": "http://www.bilibili.com/video/av466657406",
+                "duration": 178
+            },
+            {
+                "id": "BV1Xu4y1D7Wy",
+                "aid": 830354174,
+                "cid": 0,
+                "title": "「音击 ONGEKI  オンゲキ 」 Re ： End   of   a Dream MASTER  Lv.14+ 1,005,684 SSS手元",
+                "url": "http://www.bilibili.com/video/av830354174",
+                "duration": 179
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1Z44y1P7CZ",
+            "aid": 979895783,
+            "cid": 0,
+            "title": "[音击  オンゲキ ]  Re ： End   of   a Dream  ( MASTER  14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av979895783",
+            "duration": 188
+        }
+    },
+    {
+        "achievements": 1006889,
+        "ds": 14.8,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.75,
+        "rate": "sss",
+        "song_id": 764,
+        "title": "Ai C",
+        "type": "SD",
+        "clip_id": "best_9",
+        "video_info_list": [
+            {
+                "id": "BV1Qe4be4EAk",
+                "aid": 113129119881636,
+                "cid": 0,
+                "title": "[maimai 谱面确认 ]  Ai C   MASTER",
+                "url": "http://www.bilibili.com/video/av113129119881636",
+                "duration": 148
+            },
+            {
+                "id": "BV19N4y1U7wB",
+                "aid": 875925802,
+                "cid": 0,
+                "title": "[音击  オンゲキ ] Ai C ( MASTER 14+)SSS",
+                "url": "http://www.bilibili.com/video/av875925802",
+                "duration": 185
+            },
+            {
+                "id": "BV1o5411Q72Y",
+                "aid": 469238885,
+                "cid": 0,
+                "title": "オンゲキ   Ai C （ Master  14+） 谱面确认",
+                "url": "http://www.bilibili.com/video/av469238885",
+                "duration": 141
+            },
+            {
+                "id": "BV1PB4y1z7uF",
+                "aid": 599684065,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bright-M]  Ai C  ( MASTER  14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av599684065",
+                "duration": 171
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1PB4y1z7uF",
+            "aid": 599684065,
+            "cid": 0,
+            "title": "[音击  オンゲキ  bright-M]  Ai C  ( MASTER  14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av599684065",
+            "duration": 171
+        }
+    },
+    {
+        "achievements": 1006685,
+        "ds": 14.8,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.74,
+        "rate": "sss",
+        "song_id": 736,
+        "title": "Tempestissimo",
+        "type": "SD",
+        "clip_id": "best_10",
+        "video_info_list": [
+            {
+                "id": "BV1VD4y1q7Lt",
+                "aid": 730371006,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bright-M]  Tempestissimo  ( MASTER  14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av730371006",
+                "duration": 179
+            },
+            {
+                "id": "BV1ZnCLYdEZ7",
+                "aid": 113703806570474,
+                "cid": 0,
+                "title": "CHUNITHM 中二节奏  谱面确认   Tempestissimo  [ MASTER  15］(流速9.0)",
+                "url": "http://www.bilibili.com/video/av113703806570474",
+                "duration": 145
+            },
+            {
+                "id": "BV1KV41127vU",
+                "aid": 414875208,
+                "cid": 0,
+                "title": "Arcaea锁屏练习  Tempestissimo  Prs 加速练习",
+                "url": "http://www.bilibili.com/video/av414875208",
+                "duration": 896
+            },
+            {
+                "id": "BV1Rk4y1C7Aq",
+                "aid": 754913821,
+                "cid": 0,
+                "title": "Arcaea锁屏练习  Tempestissimo  Byd 加速练习",
+                "url": "http://www.bilibili.com/video/av754913821",
+                "duration": 3054
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1VD4y1q7Lt",
+            "aid": 730371006,
+            "cid": 0,
+            "title": "[音击  オンゲキ  bright-M]  Tempestissimo  ( MASTER  14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av730371006",
+            "duration": 179
+        }
+    },
+    {
+        "achievements": 1005069,
+        "ds": 14.9,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.73,
+        "rate": "sss",
+        "song_id": 890,
+        "title": "Hainuwele",
+        "type": "SD",
+        "clip_id": "best_11",
+        "video_info_list": [
+            {
+                "id": "BV1WC4y117Fe",
+                "aid": 791165414,
+                "cid": 0,
+                "title": "谱面确认   MAIMAI DX   Hainuwele    Master  14",
+                "url": "http://www.bilibili.com/video/av791165414",
+                "duration": 158
+            },
+            {
+                "id": "BV17Z4y1a7fH",
+                "aid": 383957696,
+                "cid": 0,
+                "title": "[音击  オンゲキ ] Radiance ( MASTER  13) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av383957696",
+                "duration": 190
+            },
+            {
+                "id": "BV13W411D7ND",
+                "aid": 30233644,
+                "cid": 0,
+                "title": "[ オンゲキ (音击)手元] 脳漿炸裂ガール [ MASTER  13] ALL BREAK &amp; FULL BELL [Minazuki搬运]",
+                "url": "http://www.bilibili.com/video/av30233644",
+                "duration": 159
+            },
+            {
+                "id": "BV1VD4y1d7DS",
+                "aid": 712388901,
+                "cid": 0,
+                "title": "[ オンゲキ ] 13 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av712388901",
+                "duration": 33389
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1HT411v7ZN",
+            "aid": 482763442,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM2] Hainuwele (MASTER 14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av482763442",
+            "duration": 185
+        }
+    },
+    {
+        "achievements": 1004829,
+        "ds": 14.9,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.72,
+        "rate": "sss",
+        "song_id": 540,
+        "title": "Cult future",
+        "type": "SD",
+        "clip_id": "best_12",
+        "video_info_list": [
+            {
+                "id": "BV1Nq4y1r7ea",
+                "aid": 591910390,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  Cult   future  ( MASTER  14+) SSS+ FC",
+                "url": "http://www.bilibili.com/video/av591910390",
+                "duration": 189
+            },
+            {
+                "id": "BV1Vh4y1F7eN",
+                "aid": 616862024,
+                "cid": 0,
+                "title": "CHUNITHM 中二节奏  谱面确认   Cult   future  [ MASTER  14+] (流速9.0)",
+                "url": "http://www.bilibili.com/video/av616862024",
+                "duration": 149
+            },
+            {
+                "id": "BV1GS4y167XU",
+                "aid": 724391742,
+                "cid": 0,
+                "title": "オンゲキ    Cult   future  -LV.4 音源 (No voice) 高音質",
+                "url": "http://www.bilibili.com/video/av724391742",
+                "duration": 146
+            },
+            {
+                "id": "BV1eu411v7Jg",
+                "aid": 510152967,
+                "cid": 0,
+                "title": "maimai   谱面确认   Future   白谱Re  Master  12",
+                "url": "http://www.bilibili.com/video/av510152967",
+                "duration": 108
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1vX4y1s7KZ",
+            "aid": 360177015,
+            "cid": 0,
+            "title": "[音击 オンゲキ] Cult future (MASTER 14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av360177015",
+            "duration": 180
+        }
+    },
+    {
+        "achievements": 1004832,
+        "ds": 14.9,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.72,
+        "rate": "sss",
+        "song_id": 98,
+        "title": "Titania",
+        "type": "SD",
+        "clip_id": "best_13",
+        "video_info_list": [
+            {
+                "id": "BV1tF411a7A9",
+                "aid": 293899101,
+                "cid": 0,
+                "title": "谱面确认   MAIMAI DX   Titania    Master  14",
+                "url": "http://www.bilibili.com/video/av293899101",
+                "duration": 159
+            },
+            {
+                "id": "BV1rh41137Kh",
+                "aid": 226911081,
+                "cid": 0,
+                "title": "[ オンゲキ ]  Titania  [LUNATIC 0] ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av226911081",
+                "duration": 143
+            },
+            {
+                "id": "BV1ET4y1J7q8",
+                "aid": 926050382,
+                "cid": 0,
+                "title": "[ オンゲキ PLUS]  Titania  ( MASTER ) ABFB [外部出力]",
+                "url": "http://www.bilibili.com/video/av926050382",
+                "duration": 180
+            },
+            {
+                "id": "BV1sY4y147Pm",
+                "aid": 641492285,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  Titania  ( MASTER  14+) FC 10072",
+                "url": "http://www.bilibili.com/video/av641492285",
+                "duration": 177
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1ET4y1J7q8",
+            "aid": 926050382,
+            "cid": 0,
+            "title": "[ オンゲキ PLUS]  Titania  ( MASTER ) ABFB [外部出力]",
+            "url": "http://www.bilibili.com/video/av926050382",
+            "duration": 180
+        }
+    },
+    {
+        "achievements": 996361,
+        "ds": 15.4,
+        "fc": "",
+        "fs": "sync",
+        "level": "15",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.71,
+        "rate": "sss",
+        "song_id": 740,
+        "title": "Selenadia",
+        "type": "SD",
+        "clip_id": "best_14",
+        "video_info_list": [
+            {
+                "id": "BV1E24y1C7BV",
+                "aid": 690487916,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bright-M]  Selenadia  ( MASTER  15) SSS+ FC",
+                "url": "http://www.bilibili.com/video/av690487916",
+                "duration": 192
+            },
+            {
+                "id": "BV12t4y1P7PT",
+                "aid": 987500584,
+                "cid": 0,
+                "title": "CHUNITHM 自制谱  谱面确认   SELENADIA  [ MASTER  15]",
+                "url": "http://www.bilibili.com/video/av987500584",
+                "duration": 148
+            },
+            {
+                "id": "BV1qL4y1P7aY",
+                "aid": 855350525,
+                "cid": 0,
+                "title": "譜面確認 用   Selenadia   MASTER  15  オンゲキ 外部出力",
+                "url": "http://www.bilibili.com/video/av855350525",
+                "duration": 159
+            },
+            {
+                "id": "BV1QA411F7RT",
+                "aid": 335540634,
+                "cid": 0,
+                "title": "[ オンゲキ ] 15 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av335540634",
+                "duration": 3391
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1E24y1C7BV",
+            "aid": 690487916,
+            "cid": 0,
+            "title": "[音击  オンゲキ  bright-M]  Selenadia  ( MASTER  15) SSS+ FC",
+            "url": "http://www.bilibili.com/video/av690487916",
+            "duration": 192
+        }
+    },
+    {
+        "achievements": 1004701,
+        "ds": 14.9,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.71,
+        "rate": "sss",
+        "song_id": 469,
+        "title": "Falsum Atlantis.",
+        "type": "SD",
+        "clip_id": "best_15",
+        "video_info_list": [
+            {
+                "id": "BV1J24y1S7s2",
+                "aid": 691697954,
+                "cid": 0,
+                "title": "谱面确认  MAIMAI DX   Falsum   Atlantis .   Master  14",
+                "url": "http://www.bilibili.com/video/av691697954",
+                "duration": 164
+            },
+            {
+                "id": "BV1AT4y1K76R",
+                "aid": 928702700,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  Falsum   Atlantis . - kanone (音源)",
+                "url": "http://www.bilibili.com/video/av928702700",
+                "duration": 155
+            },
+            {
+                "id": "BV1HszSY7EM2",
+                "aid": 113589302068546,
+                "cid": 0,
+                "title": "音击  オンゲキ   Falsum   Atlantis .  MASTER  Lv14+ ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av113589302068546",
+                "duration": 176
+            },
+            {
+                "id": "BV1KS4y177kS",
+                "aid": 680724353,
+                "cid": 0,
+                "title": "maimaiでらっくす  Falsum   Atlantis . でらっくす譜面  MASTER  ALL PERFECT  直撮り",
+                "url": "http://www.bilibili.com/video/av680724353",
+                "duration": 171
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1Wp421U7tf",
+            "aid": 1851917104,
+            "cid": 0,
+            "title": "[音击 オンゲキ] Falsum Atlantis. (MASTER 14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av1851917104",
+            "duration": 194
+        }
+    },
+    {
+        "achievements": 1006201,
+        "ds": 14.8,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 4,
+        "level_label": "Lunatic",
+        "ra": 16.71,
+        "rate": "sss",
+        "song_id": 8163,
+        "title": "Halcyon",
+        "type": "SD",
+        "clip_id": "best_16",
+        "video_info_list": [
+            {
+                "id": "BV16V411z7v5",
+                "aid": 414138405,
+                "cid": 0,
+                "title": "[ オンゲキ ]  Lunatic  ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av414138405",
+                "duration": 10474
+            },
+            {
+                "id": "BV1HT4y1w7fj",
+                "aid": 927463637,
+                "cid": 0,
+                "title": "[ オンゲキ ] 14 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av927463637",
+                "duration": 18352
+            },
+            {
+                "id": "BV1QA411F7RT",
+                "aid": 335540634,
+                "cid": 0,
+                "title": "[ オンゲキ ] 15 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av335540634",
+                "duration": 3391
+            },
+            {
+                "id": "BV13T4y177c8",
+                "aid": 926646400,
+                "cid": 0,
+                "title": "[ オンゲキ ] 14+ ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av926646400",
+                "duration": 7740
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1Xs4y1Q7uR",
+            "aid": 996136384,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM2] Halcyon (LUNATIC 14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av996136384",
+            "duration": 211
+        }
+    },
+    {
+        "achievements": 1006016,
+        "ds": 14.8,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.7,
+        "rate": "sss",
+        "song_id": 391,
+        "title": "Singularity",
+        "type": "SD",
+        "clip_id": "best_17",
+        "video_info_list": [
+            {
+                "id": "BV1Wf4y1e7A8",
+                "aid": 288200388,
+                "cid": 0,
+                "title": "オンゲキ    Singularity   MASTER  13+  谱面确认",
+                "url": "http://www.bilibili.com/video/av288200388",
+                "duration": 132
+            },
+            {
+                "id": "BV1PFBgYME9F",
+                "aid": 113646411718595,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  Singularity (technoplanet) ( MASTER  14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av113646411718595",
+                "duration": 189
+            },
+            {
+                "id": "BV1fH4y1K7So",
+                "aid": 1053206112,
+                "cid": 0,
+                "title": "Singularity 尾杀最帅的一集  [ MASTER  14+(.8)] ABFB [ オンゲキ ]",
+                "url": "http://www.bilibili.com/video/av1053206112",
+                "duration": 196
+            },
+            {
+                "id": "BV15i4y1Z7vD",
+                "aid": 549669366,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  Singularity (ETIA. Arcaea) ( MASTER  14) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av549669366",
+                "duration": 174
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1PFBgYME9F",
+            "aid": 113646411718595,
+            "cid": 0,
+            "title": "[音击  オンゲキ ]  Singularity (technoplanet) ( MASTER  14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av113646411718595",
+            "duration": 189
+        }
+    },
+    {
+        "achievements": 995788,
+        "ds": 15.4,
+        "fc": "",
+        "fs": "sync",
+        "level": "15",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.68,
+        "rate": "sss",
+        "song_id": 590,
+        "title": "LAMIA",
+        "type": "SD",
+        "clip_id": "best_18",
+        "video_info_list": [
+            {
+                "id": "BV1ro4y1A7BT",
+                "aid": 402414218,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  LAMIA  ( MASTER  15) 1006",
+                "url": "http://www.bilibili.com/video/av402414218",
+                "duration": 188
+            },
+            {
+                "id": "BV17x4y117vQ",
+                "aid": 1000406209,
+                "cid": 0,
+                "title": "谱面确认   MAIMAI DX   LAMIA    Master  14+",
+                "url": "http://www.bilibili.com/video/av1000406209",
+                "duration": 153
+            },
+            {
+                "id": "BV1s44y1x7Ld",
+                "aid": 976056127,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  LAMIA  ( MASTER  15) SSS",
+                "url": "http://www.bilibili.com/video/av976056127",
+                "duration": 209
+            },
+            {
+                "id": "BV1VD4y1d7DS",
+                "aid": 712388901,
+                "cid": 0,
+                "title": "[ オンゲキ ] 13 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av712388901",
+                "duration": 33389
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1ro4y1A7BT",
+            "aid": 402414218,
+            "cid": 0,
+            "title": "[音击  オンゲキ ]  LAMIA  ( MASTER  15) 1006",
+            "url": "http://www.bilibili.com/video/av402414218",
+            "duration": 188
+        }
+    },
+    {
+        "achievements": 1005802,
+        "ds": 14.8,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.68,
+        "rate": "sss",
+        "song_id": 168,
+        "title": "Viyella's Tears",
+        "type": "SD",
+        "clip_id": "best_19",
+        "video_info_list": [
+            {
+                "id": "BV1sJ411y7aY",
+                "aid": 78738613,
+                "cid": 0,
+                "title": "オンゲキ  音擊   Viyella &#x27; s   Tears  紫(Lv14+) ABu0026FB 手元",
+                "url": "http://www.bilibili.com/video/av78738613",
+                "duration": 189
+            },
+            {
+                "id": "BV1kx4y1M737",
+                "aid": 990835800,
+                "cid": 0,
+                "title": "O.N.G.E.K.I  オンゲキ   Viyella &#x27; s   Tears  - Laur 音源",
+                "url": "http://www.bilibili.com/video/av990835800",
+                "duration": 158
+            },
+            {
+                "id": "BV1pu4y1h749",
+                "aid": 917781515,
+                "cid": 0,
+                "title": "「音击 ONGEKI  オンゲキ 」 Viyella &#x27; s   Tears   MASTER  Lv.14+ 1,006,685 SSS手元",
+                "url": "http://www.bilibili.com/video/av917781515",
+                "duration": 199
+            },
+            {
+                "id": "BV1631vYHEM5",
+                "aid": 113258757359433,
+                "cid": 0,
+                "title": "音击  オンゲキ   Viyella &#x27; s   Tears  LV.14+ SSS+ 没有ABFB",
+                "url": "http://www.bilibili.com/video/av113258757359433",
+                "duration": 171
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1BM411f7NB",
+            "aid": 535844664,
+            "cid": 0,
+            "title": "[音击 オンゲキ] Viyella&#x27;s Scream (MASTER 14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av535844664",
+            "duration": 414
+        }
+    },
+    {
+        "achievements": 1000633,
+        "ds": 15.1,
+        "fc": "",
+        "fs": "sync",
+        "level": "15",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.64,
+        "rate": "sss",
+        "song_id": 801,
+        "title": "宿星審判",
+        "type": "SD",
+        "clip_id": "best_20",
+        "video_info_list": [
+            {
+                "id": "BV1Q8411p7Rw",
+                "aid": 221420695,
+                "cid": 0,
+                "title": "谱面确认   MAIMAI DX   宿星審判    Master  14",
+                "url": "http://www.bilibili.com/video/av221420695",
+                "duration": 153
+            },
+            {
+                "id": "BV1UB4y1x7zy",
+                "aid": 599886368,
+                "cid": 0,
+                "title": "CHUNITHM 中二节奏  谱面确认   宿星審判   [ MASTER  15] (流速9.0)",
+                "url": "http://www.bilibili.com/video/av599886368",
+                "duration": 144
+            },
+            {
+                "id": "BV1PY4y1v753",
+                "aid": 638237356,
+                "cid": 0,
+                "title": "maimai   谱面确认   宿星審判  红谱Expert 12",
+                "url": "http://www.bilibili.com/video/av638237356",
+                "duration": 148
+            },
+            {
+                "id": "BV1aC4y1c751",
+                "aid": 749244423,
+                "cid": 0,
+                "title": "CHUNITHM  谱面确认   宿星審判  EXPERT 13+",
+                "url": "http://www.bilibili.com/video/av749244423",
+                "duration": 145
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1be4y1i75B",
+            "aid": 561747442,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM2] 宿星審判 (MASTER 15) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av561747442",
+            "duration": 179
+        }
+    },
+    {
+        "achievements": 996422,
+        "ds": 15.3,
+        "fc": "",
+        "fs": "sync",
+        "level": "15",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.62,
+        "rate": "sss",
+        "song_id": 763,
+        "title": "MarbleBlue.",
+        "type": "SD",
+        "clip_id": "best_21",
+        "video_info_list": [
+            {
+                "id": "BV1Rk4y1U71C",
+                "aid": 751699461,
+                "cid": 0,
+                "title": "[ 譜面確認 ]  MarbleBlue .  MASTER",
+                "url": "http://www.bilibili.com/video/av751699461",
+                "duration": 169
+            },
+            {
+                "id": "BV14a411i7Rb",
+                "aid": 212987893,
+                "cid": 0,
+                "title": "オンゲキ   MarbleBlue . ( MASTER  15)  谱面确认",
+                "url": "http://www.bilibili.com/video/av212987893",
+                "duration": 160
+            },
+            {
+                "id": "BV1wgi1YhE5U",
+                "aid": 113609921333736,
+                "cid": 0,
+                "title": "世界计划 自用  谱面确认   MarbleBlue .  MASTER  33",
+                "url": "http://www.bilibili.com/video/av113609921333736",
+                "duration": 171
+            },
+            {
+                "id": "BV18a411Y7uw",
+                "aid": 213425867,
+                "cid": 0,
+                "title": "公式  MarbleBlue .   MisoilePunch♪(from  オンゲキ  bright MEMORY)",
+                "url": "http://www.bilibili.com/video/av213425867",
+                "duration": 159
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1Pw411s7Dh",
+            "aid": 322988659,
+            "cid": 0,
+            "title": "[音击 オンゲキ bright-M] MarbleBlue. (MASTER 15) SSS 10066",
+            "url": "http://www.bilibili.com/video/av322988659",
+            "duration": 204
+        }
+    },
+    {
+        "achievements": 1006307,
+        "ds": 14.7,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.62,
+        "rate": "sss",
+        "song_id": 969,
+        "title": "ouroboros -twin stroke of the end-",
+        "type": "SD",
+        "clip_id": "best_22",
+        "video_info_list": [
+            {
+                "id": "BV1pZ4y1L7Wa",
+                "aid": 372490622,
+                "cid": 0,
+                "title": "Arcaea锁屏练习  ouroboros - twin   stroke   of  the end- 分段加速练习",
+                "url": "http://www.bilibili.com/video/av372490622",
+                "duration": 2750
+            },
+            {
+                "id": "BV1nV4y1q76B",
+                "aid": 871409216,
+                "cid": 0,
+                "title": "全球首理论  [Muse Dash × GC]  ouroboros  - twin   stroke   of  the end- [大触 里] AP (EL0)",
+                "url": "http://www.bilibili.com/video/av871409216",
+                "duration": 162
+            },
+            {
+                "id": "BV1MM411f7o4",
+                "aid": 536274627,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bM2]  ouroboros  - twin   stroke   of  the end- (MASTER 14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av536274627",
+                "duration": 199
+            },
+            {
+                "id": "BV1RF4m1N7HZ",
+                "aid": 1203202221,
+                "cid": 0,
+                "title": "ouroboros  - twin   stroke   of  the end-  MASTER AP maimaiでらっくす外部出力",
+                "url": "http://www.bilibili.com/video/av1203202221",
+                "duration": 164
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1MM411f7o4",
+            "aid": 536274627,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM2] ouroboros -twin stroke of the end- (MASTER 14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av536274627",
+            "duration": 199
+        }
+    },
+    {
+        "achievements": 1003014,
+        "ds": 14.9,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.6,
+        "rate": "sss",
+        "song_id": 470,
+        "title": "Don't Fight The Music",
+        "type": "SD",
+        "clip_id": "best_23",
+        "video_info_list": [
+            {
+                "id": "BV18A411H7cj",
+                "aid": 331181581,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  Don &#x27; t   Fight   The Music  - 黒魔 (音源)",
+                "url": "http://www.bilibili.com/video/av331181581",
+                "duration": 160
+            },
+            {
+                "id": "BV1Hb4y1H7PC",
+                "aid": 635578293,
+                "cid": 0,
+                "title": "谱面预览 「 Don &#x27; t   Fight   The Music 」MASTER 34难度",
+                "url": "http://www.bilibili.com/video/av635578293",
+                "duration": 172
+            },
+            {
+                "id": "BV1sL4y1A7tu",
+                "aid": 855145364,
+                "cid": 0,
+                "title": "オンゲキ  CHUNITHM プロセカ グルコス maimai 黒魔 -  Don ’ t   Fight   The Music  音源  高音質",
+                "url": "http://www.bilibili.com/video/av855145364",
+                "duration": 162
+            },
+            {
+                "id": "BV1i94y1T7kp",
+                "aid": 368704479,
+                "cid": 0,
+                "title": "来看看本家谱面有多震撼  Don &#x27; t   Fight   The Music  [Master14.9+] 100.71 SSS [音击  オンゲキ ]",
+                "url": "http://www.bilibili.com/video/av368704479",
+                "duration": 162
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1c94y1g7H9",
+            "aid": 368094865,
+            "cid": 0,
+            "title": "[音击 オンゲキ] Don&#x27;t Fight The Music (MASTER 14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av368094865",
+            "duration": 412
+        }
+    },
+    {
+        "achievements": 1006079,
+        "ds": 14.7,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.6,
+        "rate": "sss",
+        "song_id": 484,
+        "title": "larva",
+        "type": "SD",
+        "clip_id": "best_24",
+        "video_info_list": [
+            {
+                "id": "BV1Xq4y1B7N7",
+                "aid": 592006172,
+                "cid": 0,
+                "title": "谱面确认   MAIMAI DX   larva    Master  14+",
+                "url": "http://www.bilibili.com/video/av592006172",
+                "duration": 173
+            },
+            {
+                "id": "BV1H94y1f7Tx",
+                "aid": 340107248,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  larva  ( MASTER  14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av340107248",
+                "duration": 183
+            },
+            {
+                "id": "BV1VD4y1d7DS",
+                "aid": 712388901,
+                "cid": 0,
+                "title": "[ オンゲキ ] 13 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av712388901",
+                "duration": 33389
+            },
+            {
+                "id": "BV1J841117D3",
+                "aid": 234027866,
+                "cid": 0,
+                "title": "[maimai  オンゲキ ]Fragrance双端 谱面 对比 （Fragrance オンゲキ 转谱）",
+                "url": "http://www.bilibili.com/video/av234027866",
+                "duration": 88
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1H94y1f7Tx",
+            "aid": 340107248,
+            "cid": 0,
+            "title": "[音击  オンゲキ ]  larva  ( MASTER  14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av340107248",
+            "duration": 183
+        }
+    },
+    {
+        "achievements": 1006129,
+        "ds": 14.7,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.6,
+        "rate": "sss",
+        "song_id": 758,
+        "title": "Final Flash Flight",
+        "type": "SD",
+        "clip_id": "best_25",
+        "video_info_list": [
+            {
+                "id": "BV1Ni4y1m7Pc",
+                "aid": 553422470,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bright-M]  Final   Flash   Flight  ( MASTER  14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av553422470",
+                "duration": 184
+            },
+            {
+                "id": "BV1PD421p7Ak",
+                "aid": 1502965596,
+                "cid": 0,
+                "title": "[ONGEKI  オンゲキ  音击]  Final   Flash   Flight   MASTER  14+ SSS (开头非常规手法使用)",
+                "url": "http://www.bilibili.com/video/av1502965596",
+                "duration": 191
+            },
+            {
+                "id": "BV1TU4y1f7cu",
+                "aid": 681964716,
+                "cid": 0,
+                "title": "オンゲキ  bright MEMORY 山茶花 Camellia かめりあ -  Final   Flash   Flight",
+                "url": "http://www.bilibili.com/video/av681964716",
+                "duration": 147
+            },
+            {
+                "id": "BV1fP411p7B9",
+                "aid": 317591185,
+                "cid": 0,
+                "title": "「音击 ONGEKI  オンゲキ 」 Final   Flash   Flight   MASTER  Lv.14+ 1,004,184 SSS 手元",
+                "url": "http://www.bilibili.com/video/av317591185",
+                "duration": 192
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1Ni4y1m7Pc",
+            "aid": 553422470,
+            "cid": 0,
+            "title": "[音击  オンゲキ  bright-M]  Final   Flash   Flight  ( MASTER  14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av553422470",
+            "duration": 184
+        }
+    },
+    {
+        "achievements": 1008166,
+        "ds": 14.6,
+        "fc": "",
+        "fs": "sync",
+        "level": "14",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.6,
+        "rate": "sss",
+        "song_id": 522,
+        "title": "ラクガキスト",
+        "type": "SD",
+        "clip_id": "best_26",
+        "video_info_list": [
+            {
+                "id": "BV1VD4y1d7DS",
+                "aid": 712388901,
+                "cid": 0,
+                "title": "[ オンゲキ ] 13 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av712388901",
+                "duration": 33389
+            },
+            {
+                "id": "BV1Pg4y1c7LA",
+                "aid": 826381562,
+                "cid": 0,
+                "title": "谱面确认   MAIMAI DX  ヒ トガ タ   Master  13",
+                "url": "http://www.bilibili.com/video/av826381562",
+                "duration": 171
+            },
+            {
+                "id": "BV1vh411F7MT",
+                "aid": 228945316,
+                "cid": 0,
+                "title": "谱面确认   MAIMAI DX  ジャ ンキ ーナイトタウ ンオ ーケ ストラ    Master  12+",
+                "url": "http://www.bilibili.com/video/av228945316",
+                "duration": 164
+            },
+            {
+                "id": "BV1HT4y1w7fj",
+                "aid": 927463637,
+                "cid": 0,
+                "title": "[ オンゲキ ] 14 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av927463637",
+                "duration": 18352
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1zY4y1p7V3",
+            "aid": 640202750,
+            "cid": 0,
+            "title": "[音击 オンゲキ] ラクガキスト (MASTER 14) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av640202750",
+            "duration": 191
+        }
+    },
+    {
+        "achievements": 1002695,
+        "ds": 14.9,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.57,
+        "rate": "sss",
+        "song_id": 496,
+        "title": "Viyella's Scream",
+        "type": "SD",
+        "clip_id": "best_27",
+        "video_info_list": [
+            {
+                "id": "BV1BM411f7NB",
+                "aid": 535844664,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  Viyella &#x27; s   Scream  ( MASTER  14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av535844664",
+                "duration": 414
+            },
+            {
+                "id": "BV12X4y137dc",
+                "aid": 714683394,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  Viyella &#x27; s   Scream  - Laur (音源)",
+                "url": "http://www.bilibili.com/video/av714683394",
+                "duration": 156
+            },
+            {
+                "id": "BV1Am6LYtEhH",
+                "aid": 113744642314078,
+                "cid": 0,
+                "title": "音击  オンゲキ  快速交互练习 金框吃分推荐？—— Viyella &#x27; s   Scream  Expert lv13.2",
+                "url": "http://www.bilibili.com/video/av113744642314078",
+                "duration": 197
+            },
+            {
+                "id": "BV1Tm421J73M",
+                "aid": 1602624033,
+                "cid": 0,
+                "title": "[CHUNITHM 谱面确认]练习用  Viyella &#x27; s   Scream  EXP 9.25速",
+                "url": "http://www.bilibili.com/video/av1602624033",
+                "duration": 165
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1BM411f7NB",
+            "aid": 535844664,
+            "cid": 0,
+            "title": "[音击  オンゲキ ]  Viyella &#x27; s   Scream  ( MASTER  14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av535844664",
+            "duration": 414
+        }
+    },
+    {
+        "achievements": 1005235,
+        "ds": 14.7,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.54,
+        "rate": "sss",
+        "song_id": 565,
+        "title": "Xevel",
+        "type": "SD",
+        "clip_id": "best_28",
+        "video_info_list": [
+            {
+                "id": "BV1BM411f7NB",
+                "aid": 535844664,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  Viyella &#x27; s   Scream  ( MASTER  14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av535844664",
+                "duration": 414
+            },
+            {
+                "id": "BV12X4y137dc",
+                "aid": 714683394,
+                "cid": 0,
+                "title": "[音击  オンゲキ ]  Viyella &#x27; s   Scream  - Laur (音源)",
+                "url": "http://www.bilibili.com/video/av714683394",
+                "duration": 156
+            },
+            {
+                "id": "BV1Am6LYtEhH",
+                "aid": 113744642314078,
+                "cid": 0,
+                "title": "音击  オンゲキ  快速交互练习 金框吃分推荐？—— Viyella &#x27; s   Scream  Expert lv13.2",
+                "url": "http://www.bilibili.com/video/av113744642314078",
+                "duration": 197
+            },
+            {
+                "id": "BV1Tm421J73M",
+                "aid": 1602624033,
+                "cid": 0,
+                "title": "[CHUNITHM 谱面确认]练习用  Viyella &#x27; s   Scream  EXP 9.25速",
+                "url": "http://www.bilibili.com/video/av1602624033",
+                "duration": 165
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1BM411f7NB",
+            "aid": 535844664,
+            "cid": 0,
+            "title": "[音击  オンゲキ ]  Viyella &#x27; s   Scream  ( MASTER  14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av535844664",
+            "duration": 414
+        }
+    },
+    {
+        "achievements": 1006390,
+        "ds": 14.6,
+        "fc": "",
+        "fs": "sync",
+        "level": "14",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.52,
+        "rate": "sss",
+        "song_id": 870,
+        "title": "VIIIbit Explorer",
+        "type": "SD",
+        "clip_id": "best_29",
+        "video_info_list": [
+            {
+                "id": "BV18g4y1Q7pt",
+                "aid": 833441568,
+                "cid": 0,
+                "title": "谱面确认  MAIMAI DX   VIIIbit   Explorer    Master  14 标准谱面",
+                "url": "http://www.bilibili.com/video/av833441568",
+                "duration": 146
+            },
+            {
+                "id": "BV1jU4y1d7vG",
+                "aid": 682429211,
+                "cid": 0,
+                "title": "谱面确认  MAIMAI DX   VIIIbit   Explorer    Master  14+",
+                "url": "http://www.bilibili.com/video/av682429211",
+                "duration": 148
+            },
+            {
+                "id": "BV1WS4y1D7yV",
+                "aid": 724778196,
+                "cid": 0,
+                "title": "maimai  谱面确认  VIIIbit   Explorer  8bit 红谱Expert 13",
+                "url": "http://www.bilibili.com/video/av724778196",
+                "duration": 147
+            },
+            {
+                "id": "BV12y421B7Lu",
+                "aid": 1551341056,
+                "cid": 0,
+                "title": "maimai 全分页运指 8bit浏览器 标准紫谱 Lv.14 AP手元（ VIIIbit   Explorer   MASTER  ALL PERFECT）",
+                "url": "http://www.bilibili.com/video/av1551341056",
+                "duration": 167
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1H94y1t7Jf",
+            "aid": 364693896,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM2] VIIIbit Explorer (MASTER 14) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av364693896",
+            "duration": 176
+        }
+    },
+    {
+        "achievements": 1003200,
+        "ds": 14.8,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.51,
+        "rate": "sss",
+        "song_id": 765,
+        "title": "ゼーレンヴァンデルング",
+        "type": "SD",
+        "clip_id": "best_30",
+        "video_info_list": [
+            {
+                "id": "BV1UB4y1V73h",
+                "aid": 602294827,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bright-M]  ゼーレンヴァンデルング  ( MASTER  14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av602294827",
+                "duration": 186
+            },
+            {
+                "id": "BV1uv4y1P7RR",
+                "aid": 554370624,
+                "cid": 0,
+                "title": "音击  オンゲキ   ゼーレンヴァンデルング  ke-ji(CERTIA) 音源",
+                "url": "http://www.bilibili.com/video/av554370624",
+                "duration": 151
+            },
+            {
+                "id": "BV1Nt421p7XX",
+                "aid": 1800278254,
+                "cid": 0,
+                "title": "谱面确认   MAIMAI DX  ヱ デン    Master  12+",
+                "url": "http://www.bilibili.com/video/av1800278254",
+                "duration": 166
+            },
+            {
+                "id": "BV15p4y1B7bc",
+                "aid": 970843138,
+                "cid": 0,
+                "title": "Project SEKAI 29日追加曲  グリ一ンライツ·セレナ一 デ   Master 31  谱面确认",
+                "url": "http://www.bilibili.com/video/av970843138",
+                "duration": 132
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1UB4y1V73h",
+            "aid": 602294827,
+            "cid": 0,
+            "title": "[音击  オンゲキ  bright-M]  ゼーレンヴァンデルング  ( MASTER  14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av602294827",
+            "duration": 186
+        }
+    },
+    {
+        "achievements": 1002902,
+        "ds": 15.2,
+        "fc": "",
+        "fs": "sync",
+        "level": "15",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.89,
+        "rate": "sss",
+        "song_id": 1027,
+        "title": "I Wanna",
+        "type": "SD",
+        "clip_id": "new_1",
+        "video_info_list": [
+            {
+                "id": "BV1UFCfYFEju",
+                "aid": 113335026584254,
+                "cid": 0,
+                "title": "[ONGEKI  オンゲキ  音击]  I Wanna   MASTER  15 SSS",
+                "url": "http://www.bilibili.com/video/av113335026584254",
+                "duration": 203
+            },
+            {
+                "id": "BV1QA411F7RT",
+                "aid": 335540634,
+                "cid": 0,
+                "title": "[ オンゲキ ] 15 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av335540634",
+                "duration": 3391
+            },
+            {
+                "id": "BV1SB1UY3EVG",
+                "aid": 113249731348221,
+                "cid": 0,
+                "title": "[ オンゲキ ] I Wanna   MASTER 15 SSS",
+                "url": "http://www.bilibili.com/video/av113249731348221",
+                "duration": 204
+            },
+            {
+                "id": "BV18p4FeGEb5",
+                "aid": 113248556877665,
+                "cid": 0,
+                "title": "▶Koma.◀   オンゲキ   I Wanna   MASTER  15 ALL BREAK FULL BELL",
+                "url": "http://www.bilibili.com/video/av113248556877665",
+                "duration": 186
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1weDUYkEZU",
+            "aid": 113441679417316,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM3] I Wanna (MASTER 15) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av113441679417316",
+            "duration": 204
+        }
+    },
+    {
+        "achievements": 1007246,
+        "ds": 14.9,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 4,
+        "level_label": "Lunatic",
+        "ra": 16.88,
+        "rate": "sss",
+        "song_id": 8169,
+        "title": "MEGALOVANIA",
+        "type": "SD",
+        "clip_id": "new_2",
+        "video_info_list": [
+            {
+                "id": "BV1n2421M76z",
+                "aid": 1601296295,
+                "cid": 0,
+                "title": "转载 音击  [ オンゲキ  bright MEMORY]  MEGALOVANIA  ( LUNATIC ) ABFB理論値 [外部出力]",
+                "url": "http://www.bilibili.com/video/av1601296295",
+                "duration": 202
+            },
+            {
+                "id": "BV16V411z7v5",
+                "aid": 414138405,
+                "cid": 0,
+                "title": "[ オンゲキ ]  Lunatic  ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av414138405",
+                "duration": 10474
+            },
+            {
+                "id": "BV1hf421o79f",
+                "aid": 1202610394,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bM3]  MEGALOVANIA  ( LUNATIC  14+) 完走 ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av1202610394",
+                "duration": 208
+            },
+            {
+                "id": "BV1QA411F7RT",
+                "aid": 335540634,
+                "cid": 0,
+                "title": "[ オンゲキ ] 15 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av335540634",
+                "duration": 3391
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1n2421M76z",
+            "aid": 1601296295,
+            "cid": 0,
+            "title": "转载 音击  [ オンゲキ  bright MEMORY]  MEGALOVANIA  ( LUNATIC ) ABFB理論値 [外部出力]",
+            "url": "http://www.bilibili.com/video/av1601296295",
+            "duration": 202
+        }
+    },
+    {
+        "achievements": 1006986,
+        "ds": 14.9,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.86,
+        "rate": "sss",
+        "song_id": 1022,
+        "title": "Synthesis.",
+        "type": "SD",
+        "clip_id": "new_3",
+        "video_info_list": [
+            {
+                "id": "BV1EE421A7WS",
+                "aid": 1655969533,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bM3]  Synthesis . ( MASTER  14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av1655969533",
+                "duration": 205
+            },
+            {
+                "id": "BV1NKcoeFErt",
+                "aid": 113844449975684,
+                "cid": 0,
+                "title": "节奏大师  谱面确认   Synthesis . 4K 5K 6K 谱面",
+                "url": "http://www.bilibili.com/video/av113844449975684",
+                "duration": 726
+            },
+            {
+                "id": "BV15kqtYzE8k",
+                "aid": 113638224564168,
+                "cid": 0,
+                "title": "CHUNITHM 中二节奏  谱面确认   Synthesis . [ MASTER  15］ (流速9.0)",
+                "url": "http://www.bilibili.com/video/av113638224564168",
+                "duration": 168
+            },
+            {
+                "id": "BV13T4y177c8",
+                "aid": 926646400,
+                "cid": 0,
+                "title": "[ オンゲキ ] 14+ ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av926646400",
+                "duration": 7740
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1EE421A7WS",
+            "aid": 1655969533,
+            "cid": 0,
+            "title": "[音击  オンゲキ  bM3]  Synthesis . ( MASTER  14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av1655969533",
+            "duration": 205
+        }
+    },
+    {
+        "achievements": 1005312,
+        "ds": 14.9,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.75,
+        "rate": "sss",
+        "song_id": 989,
+        "title": "THE TRiANGLE",
+        "type": "SD",
+        "clip_id": "new_4",
+        "video_info_list": [
+            {
+                "id": "BV1pt421V72Z",
+                "aid": 1801724417,
+                "cid": 0,
+                "title": "［ オンゲキ ］Yuta Imai -  THE TRiANGLE",
+                "url": "http://www.bilibili.com/video/av1801724417",
+                "duration": 173
+            },
+            {
+                "id": "BV1Cm42177Rn",
+                "aid": 1602909437,
+                "cid": 0,
+                "title": "[ONGEKI  オンゲキ  音击]  THE TRiANGLE    MASTER  14+ SSS",
+                "url": "http://www.bilibili.com/video/av1602909437",
+                "duration": 214
+            },
+            {
+                "id": "BV1mC411p7Lk",
+                "aid": 1951338956,
+                "cid": 0,
+                "title": "オンゲキ  Yuta Imai -  THE TRiANGLE",
+                "url": "http://www.bilibili.com/video/av1951338956",
+                "duration": 173
+            },
+            {
+                "id": "BV1AZ421u7jh",
+                "aid": 1156017257,
+                "cid": 0,
+                "title": "CHUNITHM x  オンゲキ   THE TRiANGLE  -  MASTER  15.1",
+                "url": "http://www.bilibili.com/video/av1156017257",
+                "duration": 207
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1ax421S7oK",
+            "aid": 1752927315,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM3] THE TRiANGLE (MASTER 14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av1752927315",
+            "duration": 212
+        }
+    },
+    {
+        "achievements": 1006670,
+        "ds": 14.8,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.74,
+        "rate": "sss",
+        "song_id": 994,
+        "title": "Got more raves? -xiRemix-",
+        "type": "SD",
+        "clip_id": "new_5",
+        "video_info_list": [
+            {
+                "id": "BV1WS411P7rK",
+                "aid": 1905583913,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bM3]  Got   more   raves   - xiRemix - (MASTER 14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av1905583913",
+                "duration": 192
+            },
+            {
+                "id": "BV1cJ4m1373M",
+                "aid": 1255630601,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bM3]  Got   more   raves   - xiRemix - (EXPERT 13+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av1255630601",
+                "duration": 197
+            },
+            {
+                "id": "BV1gZ421M76Q",
+                "aid": 1155844875,
+                "cid": 0,
+                "title": "GROOVE COASTER xi -  Got   more   raves   - xiRemix - (GAME version) 音源  高音質",
+                "url": "http://www.bilibili.com/video/av1155844875",
+                "duration": 153
+            },
+            {
+                "id": "BV1rdtZeZE7S",
+                "aid": 113169133474001,
+                "cid": 0,
+                "title": "谱面确认  MAIMAI DX   Got   more   raves ？  Master 14",
+                "url": "http://www.bilibili.com/video/av113169133474001",
+                "duration": 133
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1WS411P7rK",
+            "aid": 1905583913,
+            "cid": 0,
+            "title": "[音击  オンゲキ  bM3]  Got   more   raves   - xiRemix - (MASTER 14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av1905583913",
+            "duration": 192
+        }
+    },
+    {
+        "achievements": 1006083,
+        "ds": 14.8,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.7,
+        "rate": "sss",
+        "song_id": 1028,
+        "title": "Haunted Dance",
+        "type": "SD",
+        "clip_id": "new_6",
+        "video_info_list": [
+            {
+                "id": "BV1zkDUYKE2x",
+                "aid": 113441863897624,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bM3]  Haunted   Dance  ( MASTER  14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av113441863897624",
+                "duration": 198
+            },
+            {
+                "id": "BV1g94y1A78N",
+                "aid": 367316940,
+                "cid": 0,
+                "title": "maimai创作 谱面   Haunted   Dance   Master  14",
+                "url": "http://www.bilibili.com/video/av367316940",
+                "duration": 201
+            },
+            {
+                "id": "BV1EZ421U73z",
+                "aid": 1150372479,
+                "cid": 0,
+                "title": "Muse Dash新曲慢递  Haunted   Dance  大触Lv.11 100.00% ALL PERFECT 手元",
+                "url": "http://www.bilibili.com/video/av1150372479",
+                "duration": 174
+            },
+            {
+                "id": "BV1Ce4y137Zx",
+                "aid": 649947650,
+                "cid": 0,
+                "title": "哔哩卡拉 卡拉OK字幕 (vocal) Splash  Dance !! -  オンゲキ",
+                "url": "http://www.bilibili.com/video/av649947650",
+                "duration": 250
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1zkDUYKE2x",
+            "aid": 113441863897624,
+            "cid": 0,
+            "title": "[音击  オンゲキ  bM3]  Haunted   Dance  ( MASTER  14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av113441863897624",
+            "duration": 198
+        }
+    },
+    {
+        "achievements": 999603,
+        "ds": 15.2,
+        "fc": "",
+        "fs": "sync",
+        "level": "15",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.68,
+        "rate": "sss",
+        "song_id": 1031,
+        "title": "Lazulis Gambit",
+        "type": "SD",
+        "clip_id": "new_7",
+        "video_info_list": [
+            {
+                "id": "BV18WmpYkEy2",
+                "aid": 113465033297356,
+                "cid": 0,
+                "title": "音击  オンゲキ   Lazulis   Gambit   MASTER  Lv15 SSS 10067",
+                "url": "http://www.bilibili.com/video/av113465033297356",
+                "duration": 169
+            },
+            {
+                "id": "BV1m8DnY6ESr",
+                "aid": 113422939197427,
+                "cid": 0,
+                "title": "▶Koma.◀   オンゲキ   Lazulis   Gambit   MASTER  15 ALL BREAK FULL BELL",
+                "url": "http://www.bilibili.com/video/av113422939197427",
+                "duration": 163
+            },
+            {
+                "id": "BV1VADYYmEtS",
+                "aid": 113447568154393,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bM3]  Lazulis   Gambit  (EXPERT 13+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av113447568154393",
+                "duration": 184
+            },
+            {
+                "id": "BV1n3SzYkEF5",
+                "aid": 113413158078061,
+                "cid": 0,
+                "title": "[ オンゲキ ]  Lazulis   Gambit     Master  15   1005576 FCFB SSS",
+                "url": "http://www.bilibili.com/video/av113413158078061",
+                "duration": 180
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1VADYYmEs2",
+            "aid": 113447568154570,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM3] Lazulis Gambit (MASTER 15) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av113447568154570",
+            "duration": 182
+        }
+    },
+    {
+        "achievements": 1005841,
+        "ds": 14.8,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.68,
+        "rate": "sss",
+        "song_id": 848,
+        "title": "Sparking Revolver",
+        "type": "SD",
+        "clip_id": "new_8",
+        "video_info_list": [
+            {
+                "id": "BV1oY4WeQEC7",
+                "aid": 113125697263194,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bM3]  Sparking   Revolver  ( MASTER  14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av113125697263194",
+                "duration": 187
+            },
+            {
+                "id": "BV1EZDiYqEhJ",
+                "aid": 113451376576892,
+                "cid": 0,
+                "title": "音击  オンゲキ   Sparking   Revolver  EXPERT Lv.13 ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av113451376576892",
+                "duration": 198
+            },
+            {
+                "id": "BV1MeYue7E3j",
+                "aid": 112932574724701,
+                "cid": 0,
+                "title": "「ONGEKI 音击」 Sparking   Revolver   Master  Lv.14+ 1,007,845 SSS+ ABFB",
+                "url": "http://www.bilibili.com/video/av112932574724701",
+                "duration": 191
+            },
+            {
+                "id": "BV16V411z7v5",
+                "aid": 414138405,
+                "cid": 0,
+                "title": "[ オンゲキ ] Lunatic (譜面確認)",
+                "url": "http://www.bilibili.com/video/av414138405",
+                "duration": 10474
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1oY4WeQEC7",
+            "aid": 113125697263194,
+            "cid": 0,
+            "title": "[音击  オンゲキ  bM3]  Sparking   Revolver  ( MASTER  14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av113125697263194",
+            "duration": 187
+        }
+    },
+    {
+        "achievements": 1006039,
+        "ds": 14.7,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.6,
+        "rate": "sss",
+        "song_id": 944,
+        "title": "クリムゾン帝王",
+        "type": "SD",
+        "clip_id": "new_9",
+        "video_info_list": [
+            {
+                "id": "BV1LSynYKEDK",
+                "aid": 113350428070839,
+                "cid": 0,
+                "title": "[音击  オンゲキ  bM3]  クリムゾン帝王  ( MASTER  14+) ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av113350428070839",
+                "duration": 197
+            },
+            {
+                "id": "BV14p4y157Fp",
+                "aid": 956402293,
+                "cid": 0,
+                "title": "WACCA 谱面   クリムゾン帝王",
+                "url": "http://www.bilibili.com/video/av956402293",
+                "duration": 608
+            },
+            {
+                "id": "BV1N84y177M7",
+                "aid": 608309942,
+                "cid": 0,
+                "title": "WACCA  クリムゾン帝王 Inferno14 FC 993",
+                "url": "http://www.bilibili.com/video/av608309942",
+                "duration": 180
+            },
+            {
+                "id": "BV1r3411x7im",
+                "aid": 422527119,
+                "cid": 0,
+                "title": "WACCA REDALiCE -  クリムゾン帝王 -",
+                "url": "http://www.bilibili.com/video/av422527119",
+                "duration": 145
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1LSynYKEDK",
+            "aid": 113350428070839,
+            "cid": 0,
+            "title": "[音击  オンゲキ  bM3]  クリムゾン帝王  ( MASTER  14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av113350428070839",
+            "duration": 197
+        }
+    },
+    {
+        "achievements": 1002819,
+        "ds": 14.9,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 4,
+        "level_label": "Lunatic",
+        "ra": 16.58,
+        "rate": "sss",
+        "song_id": 8175,
+        "title": "シリウスの輝きのように",
+        "type": "SD",
+        "clip_id": "new_10",
+        "video_info_list": [
+            {
+                "id": "BV16V411z7v5",
+                "aid": 414138405,
+                "cid": 0,
+                "title": "[ オンゲキ ]  Lunatic  ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av414138405",
+                "duration": 10474
+            },
+            {
+                "id": "BV14jD9YbEGG",
+                "aid": 113443155743319,
+                "cid": 0,
+                "title": "[maimai 谱面确认 ]  シリウスの輝きのように  RE MASTER",
+                "url": "http://www.bilibili.com/video/av113443155743319",
+                "duration": 128
+            },
+            {
+                "id": "BV1XdCtYnE9i",
+                "aid": 113727764433452,
+                "cid": 0,
+                "title": "音击  オンゲキ  金框吃分推荐 13紫谱入门—— シリウスの輝きのように  Master lv13.1 abfb",
+                "url": "http://www.bilibili.com/video/av113727764433452",
+                "duration": 161
+            },
+            {
+                "id": "BV1GFt8eYEpD",
+                "aid": 113150695316710,
+                "cid": 0,
+                "title": "[音击 オンゲキ ] シリウスの輝きのように （re master14+）越级s",
+                "url": "http://www.bilibili.com/video/av113150695316710",
+                "duration": 136
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1kZ421q7sH",
+            "aid": 1152464082,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM3] シリウスの輝きのように (Re MASTER 14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av1152464082",
+            "duration": 162
+        }
+    },
+    {
+        "achievements": 1002592,
+        "ds": 14.9,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.57,
+        "rate": "sss",
+        "song_id": 943,
+        "title": "eden",
+        "type": "SD",
+        "clip_id": "new_11",
+        "video_info_list": [
+            {
+                "id": "BV1QA411F7RT",
+                "aid": 335540634,
+                "cid": 0,
+                "title": "[ オンゲキ ] 15 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av335540634",
+                "duration": 3391
+            },
+            {
+                "id": "BV1VD4y1d7DS",
+                "aid": 712388901,
+                "cid": 0,
+                "title": "[ オンゲキ ] 13 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av712388901",
+                "duration": 33389
+            },
+            {
+                "id": "BV13W411D7ND",
+                "aid": 30233644,
+                "cid": 0,
+                "title": "[ オンゲキ (音击)手元] 脳漿炸裂ガール [ MASTER  13] ALL BREAK &amp; FULL BELL [Minazuki搬运]",
+                "url": "http://www.bilibili.com/video/av30233644",
+                "duration": 159
+            },
+            {
+                "id": "BV1HT4y1w7fj",
+                "aid": 927463637,
+                "cid": 0,
+                "title": "[ オンゲキ ] 14 ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av927463637",
+                "duration": 18352
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1FHyHY5E6H",
+            "aid": 113350142857872,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM3] eden (MASTER 14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av113350142857872",
+            "duration": 192
+        }
+    },
+    {
+        "achievements": 1005031,
+        "ds": 14.7,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.53,
+        "rate": "sss",
+        "song_id": 1003,
+        "title": "Cogito ergo sum",
+        "type": "SD",
+        "clip_id": "new_12",
+        "video_info_list": [
+            {
+                "id": "BV1jKeFezEJk",
+                "aid": 112947959565596,
+                "cid": 0,
+                "title": "学生换上啦啦队服很烧是哪个二游  オンゲキ   Cogito   ergo   sum ( Master  14.7) AB漏B SSS",
+                "url": "http://www.bilibili.com/video/av112947959565596",
+                "duration": 151
+            },
+            {
+                "id": "BV1hUc6exE5i",
+                "aid": 113832940802980,
+                "cid": 0,
+                "title": "オンゲキ   Cogito   ergo   sum  14+首SSS",
+                "url": "http://www.bilibili.com/video/av113832940802980",
+                "duration": 205
+            },
+            {
+                "id": "BV1As411Q7qv",
+                "aid": 3936989,
+                "cid": 0,
+                "title": "鏡音レン  cogito   ergo   sum",
+                "url": "http://www.bilibili.com/video/av3936989",
+                "duration": 241
+            },
+            {
+                "id": "BV1QA411F7RT",
+                "aid": 335540634,
+                "cid": 0,
+                "title": "[ オンゲキ ] 15 ( 譜面 確認)",
+                "url": "http://www.bilibili.com/video/av335540634",
+                "duration": 3391
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1ND421P7JV",
+            "aid": 1504694660,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM3] Cogito ergo sum (MASTER 14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av1504694660",
+            "duration": 175
+        }
+    },
+    {
+        "achievements": 1004748,
+        "ds": 14.7,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.51,
+        "rate": "sss",
+        "song_id": 1011,
+        "title": "冥乱幻舞",
+        "type": "SD",
+        "clip_id": "new_13",
+        "video_info_list": [
+            {
+                "id": "BV1BjhHe8EJG",
+                "aid": 112726147861741,
+                "cid": 0,
+                "title": "冥乱幻舞 ex ab",
+                "url": "http://www.bilibili.com/video/av112726147861741",
+                "duration": 192
+            },
+            {
+                "id": "BV1FH4y1A7Xy",
+                "aid": 1056129850,
+                "cid": 0,
+                "title": "ONGEKI  冥乱幻舞  EXPERT13 ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av1056129850",
+                "duration": 186
+            },
+            {
+                "id": "BV16V411z7v5",
+                "aid": 414138405,
+                "cid": 0,
+                "title": "[ オンゲキ ] Lunatic ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av414138405",
+                "duration": 10474
+            },
+            {
+                "id": "BV13T4y177c8",
+                "aid": 926646400,
+                "cid": 0,
+                "title": "[ オンゲキ ] 14+ ( 譜面確認 )",
+                "url": "http://www.bilibili.com/video/av926646400",
+                "duration": 7740
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1vx4y147Ef",
+            "aid": 1006352846,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM3] 冥乱幻舞 (MASTER 14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av1006352846",
+            "duration": 187
+        }
+    },
+    {
+        "achievements": 1000405,
+        "ds": 14.9,
+        "fc": "",
+        "fs": "sync",
+        "level": "14+",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.42,
+        "rate": "sss",
+        "song_id": 990,
+        "title": "淵底のグレイ・ユークロニア",
+        "type": "SD",
+        "clip_id": "new_14",
+        "video_info_list": [
+            {
+                "id": "BV1uwececEtt",
+                "aid": 112947355454974,
+                "cid": 0,
+                "title": "「ONGEKI 音击」 淵底のグレイ ・ ユークロニア   MASTER  Lv.14+ 1,007,871 SSS+ FCFB手元",
+                "url": "http://www.bilibili.com/video/av112947355454974",
+                "duration": 183
+            },
+            {
+                "id": "BV1hhPDebEGU",
+                "aid": 113937848735396,
+                "cid": 0,
+                "title": "mdcp自制 谱   淵底のグレイ ・ ユークロニア   谱面 预览",
+                "url": "http://www.bilibili.com/video/av113937848735396",
+                "duration": 171
+            },
+            {
+                "id": "BV1jf421q7C7",
+                "aid": 1206168702,
+                "cid": 0,
+                "title": "ONGEKI  淵底のグレイ ・ ユークロニア  EXPERT13 ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av1206168702",
+                "duration": 191
+            },
+            {
+                "id": "BV1NaprekExr",
+                "aid": 112983627796229,
+                "cid": 0,
+                "title": "maimai自制谱  淵底のグレイ ・ ユークロニア  打打だいず; siromaru; Tanchiky",
+                "url": "http://www.bilibili.com/video/av112983627796229",
+                "duration": 156
+            }
+        ],
+        "video_info_match": {
+            "id": "BV1Fy411q7Nu",
+            "aid": 1956320672,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM3] 淵底のグレイ・ユークロニア (MASTER 14+) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av1956320672",
+            "duration": 193
+        }
+    },
+    {
+        "achievements": 1004535,
+        "ds": 14.6,
+        "fc": "",
+        "fs": "sync",
+        "level": "14",
+        "level_index": 3,
+        "level_label": "Master",
+        "ra": 16.4,
+        "rate": "sss",
+        "song_id": 1035,
+        "title": "最強STRONGER",
+        "type": "SD",
+        "clip_id": "new_15",
+        "video_info_list": [
+            {
+                "id": "BV1w6UKYDEDE",
+                "aid": 113476139811543,
+                "cid": 0,
+                "title": "音击  オンゲキ   最強STRONGER   MASTER  Lv14 ABFB SSS+",
+                "url": "http://www.bilibili.com/video/av113476139811543",
+                "duration": 165
+            },
+            {
+                "id": "BV1Bw411p7pf",
+                "aid": 323719458,
+                "cid": 0,
+                "title": "谱面确认   MAIMAI DX   最強STRONGER    Master  14",
+                "url": "http://www.bilibili.com/video/av323719458",
+                "duration": 157
+            },
+            {
+                "id": "BV1ev421i7Kk",
+                "aid": 1450147258,
+                "cid": 0,
+                "title": "谱面确认   MAIMAI DX   最強STRONGER  EXPERT12+（自用）",
+                "url": "http://www.bilibili.com/video/av1450147258",
+                "duration": 166
+            },
+            {
+                "id": "BV1VWmfYEEDx",
+                "aid": 113487430813628,
+                "cid": 0,
+                "title": "音击  オンゲキ   最強STRONGER   MASTER  14 SSS+",
+                "url": "http://www.bilibili.com/video/av113487430813628",
+                "duration": 192
+            }
+        ],
+        "video_info_match": {
+            "id": "BV191zbYVEf1",
+            "aid": 113559254275317,
+            "cid": 0,
+            "title": "[音击 オンゲキ bM3] 最強STRONGER (MASTER 14) ABFB SSS+",
+            "url": "http://www.bilibili.com/video/av113559254275317",
+            "duration": 198
+        }
+    }
+]

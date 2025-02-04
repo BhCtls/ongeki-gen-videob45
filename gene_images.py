@@ -18,7 +18,7 @@ def generate_single_image(background_path, record_detail, user_id, prefix, index
         
         # 添加文字
         draw = ImageDraw.Draw(background)
-        font = ImageFont.truetype("./font/FOT_NewRodin_Pro_EB.otf", 50)
+        font = ImageFont.truetype("./font/SEGA_Humming.ttf", 50)
         draw.text((940, 100), f"{prefix} {index + 1}", fill=(255, 255, 255), font=font)
         
         # 保存图片
@@ -36,7 +36,7 @@ def gene_images_batch(data, user_id, prefix):
     mask_check_cnt = 0
     mask_warn = False
     for index, record_detail in enumerate(data):
-        acc_string = f"{record_detail['achievements']:.4f}"
+        acc_string = f"{record_detail['achievements']:.4f}"#????????
         mask_check_cnt, mask_warn = check_mask_waring(acc_string, mask_check_cnt, mask_warn)
         record_for_gene_image = deepcopy(record_detail)
         record_for_gene_image['achievements'] = acc_string
@@ -52,10 +52,10 @@ def generate_b50_images(UserID, b35_data, b15_data, output_dir):
     print("生成B50图片中...")
     os.makedirs(output_dir, exist_ok=True)
     # 生成历史最佳图片
-    gene_images_batch(b35_data, UserID, "PastBest")
+    gene_images_batch(b35_data, UserID, "最佳")
     
     # 生成最新最佳图片
-    gene_images_batch(b15_data, UserID, "NewBest")
+    gene_images_batch(b15_data, UserID, "新曲")
 
     print(f"已生成 {UserID} 的 B50 图片，请在 b50_images/{UserID} 文件夹中查看。")
 

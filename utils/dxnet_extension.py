@@ -53,9 +53,6 @@ def get_factor(achievement):
             return factor
     return 0
 
-def parse_level(ds):
-    return f"{int(ds)}+" if int((ds * 10) % 10) >= 6 else str(int(ds))
-
 class ChartManager:
     
     def __init__(self):
@@ -72,22 +69,18 @@ class ChartManager:
         #     "dxScore": number,
         #     "fc": str,
         #     "fs": str,
-        #     "level": str, # might given
+        #     "level": str, # given
         #     "level_index": number, # given
         #     "level_label": str, # given
         #     "ra": number, # compute
-        #     "rate": str, # compute
+        #     "rate": str, # given
         #     "song_id": number, # search
         #     "title": str, # given
         #     "type": str # given
         # }
-
-        # Parse rate
-        chart_json["rate"] = get_rate(chart_json["achievements"])
-
         chart_title = chart_json["title"]
         chart_type = 1 if chart_json["type"].lower() == "dx" else 0
-        chart_level_index = chart_json["level_index"]
+        chart_level = chart_json["level_index"]
 
         matched_song = self.find_song(chart_title, chart_type)
         
@@ -97,11 +90,8 @@ class ChartManager:
                 chart_json["song_id"] = matched_song["id"]
             if chart_json["song_id"] is None or chart_json["song_id"] < 0:
                 print(f"Info: can't resolve ID for song {chart_title}.")
-            ds = matched_song["charts"][chart_level_index]["level"]
-            chart_json["ds"] = ds
+            chart_json["ds"] = matched_song["charts"][chart_level]["level"]
             chart_json["ra"] = int(chart_json["ds"] * chart_json["achievements"] * get_factor(chart_json["achievements"]))
-            if chart_json["level"] == "0": # data from dxrating.net doesn't provide a level                    
-                chart_json["level"] = parse_level(ds)
         else:
             print(f"Warning: song {chart_title} with chart type {chart_json['type']} not found in dataset. Skip filling details.")
             # Default internal level as .0 or .6(+). Need extra dataset to specify.
@@ -125,7 +115,7 @@ class ChartManager:
                 None
             )
             self.results.append(matched_song)
-            # print(f"Info: song {chart_title} with chart type {chart_type} found and cached.")
+            print(f"Info: song {chart_title} with chart type {chart_type} found and cached.")
         
         return matched_song
             
