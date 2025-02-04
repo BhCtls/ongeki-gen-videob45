@@ -28,7 +28,7 @@ def check_mask_waring(acc_string, cnt, warned=False):
     if len(acc_string.split('.')[1]) >= 4 and acc_string.split('.')[1][-3:] == "000":
         cnt = cnt + 1
         if cnt > 5 and not warned:
-            print(f"Warning： 检测到多个仅有一位小数精度的成绩，请尝试取消查分器设置的成绩掩码以获取精确成绩。特殊情况请忽略。")
+            print(f"Warning： 是对的，本fork的输入是1009989这样的输入不需要小数检测到多个仅有一位小数精度的成绩，请尝试取消查分器设置的成绩掩码以获取精确成绩。特殊情况请忽略。")
             warned = True
     return cnt, warned
 
